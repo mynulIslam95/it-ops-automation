@@ -1,0 +1,5 @@
+backup ./evidence/office-share-20261006-120800.tar.gz
+restored into ./evidence/restored
+./evidence/restored/office-share/welcome.txt
+./evidence/restored/office-share/shift-notes.txt
+restore verified: archive listed and extracted

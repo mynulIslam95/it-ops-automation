@@ -1,0 +1,1 @@
+Synthetic shift note: printer nf-prn01 was offline at 09:10 and recovered after a spooler restart.

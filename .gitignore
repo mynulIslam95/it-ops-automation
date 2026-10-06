@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+evidence/local/
+evidence/restored-test/
+evidence/*.tar.gz
+backup-work/
+restore-work/
+ansible/inventory.ini
+identity/.secrets
